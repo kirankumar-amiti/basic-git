@@ -11,3 +11,9 @@ git branch
 git merge
 git stash
 git stash pop
+
+
+git branch
+git merge
+git stash
+git stash pop
