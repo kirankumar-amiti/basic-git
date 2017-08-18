@@ -1,6 +1,3 @@
-
-git tag -a "v222"
-
 git add .
 git pull
 git push
@@ -12,15 +9,8 @@ git branch
 git merge
 git stash
 git stash pop
-
-
 git branch
 git merge
 git stash
 git stash pop
-
-
-
-
-sarath
 
