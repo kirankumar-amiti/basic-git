@@ -1,7 +1,13 @@
-hi
 
-second
-
-test second commite
-second commite
 git tag -a "v222"
+git add .
+git pull
+git push
+git commit
+git fetch
+git status
+git checkout
+git branch
+git merge
+git stash
+git stash pop
