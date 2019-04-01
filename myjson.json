@@ -1,7 +1,7 @@
 {"web-app": {
   "servlet": [   
     {
-      "servlet-name": "cofaxCDS",
+      "servlet-name": "asutssoshi152667837",
       "servlet-class": "org.cofax.cds.CDSServlet",
       "init-param": {
         "configGlossary:installationAt": "Philadelphia, PA",
@@ -85,4 +85,5 @@
  
   "taglib": {
     "taglib-uri": "cofax.tld",
-    "taglib-location": "/WEB-INF/tlds/cofax.tld"}}}
+    "taglib-location": "/WEB-INF/tlds/cofax.tld",
+    "ss\\"}}}
