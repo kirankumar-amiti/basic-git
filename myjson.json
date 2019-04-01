@@ -1,7 +1,7 @@
 {"web-app": {
   "servlet": [   
     {
-      "servlet-name": "cofaxCDS",
+      "servlet-name": "asutssoshi152637",
       "servlet-class": "org.cofax.cds.CDSServlet",
       "init-param": {
         "configGlossary:installationAt": "Philadelphia, PA",
@@ -15,7 +15,7 @@
         "templateOverridePath": "",
         "defaultListTemplate": "listTemplate.htm",
         "defaultFileTemplate": "articleTemplate.htm",
-        "useJSP": false,
+        "useJSP": true,
         "jspListTemplate": "listTemplate.jsp",
         "jspFileTemplate": "articleTemplate.jsp",
         "cachePackageTagsTrack": 200,
@@ -85,4 +85,5 @@
  
   "taglib": {
     "taglib-uri": "cofax.tld",
-    "taglib-location": "/WEB-INF/tlds/cofax.tld"}}}
+    "taglib-location": "/WEB-INF/tlds/cofax.tld",
+    "ss\\"}}}
