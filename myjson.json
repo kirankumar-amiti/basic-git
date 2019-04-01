@@ -15,7 +15,7 @@
         "templateOverridePath": "",
         "defaultListTemplate": "listTemplate.htm",
         "defaultFileTemplate": "articleTemplate.htm",
-        "useJSP": false,
+        "useJSP": true,
         "jspListTemplate": "listTemplate.jsp",
         "jspFileTemplate": "articleTemplate.jsp",
         "cachePackageTagsTrack": 200,
